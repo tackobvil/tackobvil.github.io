@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tackobvil.github.io/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/app/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/assets/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/css/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/data/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/includes/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/item/sitemap.html.gz
+Sitemap: https://tackobvil.github.io/src/sitemap.html.gz
